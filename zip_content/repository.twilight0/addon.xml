@@ -2,9 +2,9 @@
     <addon id="repository.newcry" name="Newcry Addon Repository" version="1.8" provider-name="Newcry">
         <extension point="xbmc.addon.repository" name="Newcry Addon Repository">
             <dir>
-                <info compressed="false">https://raw.githubusercontent.com/andreasneo/repository.newcry/master/_zips/addons.xml</info>
-                <checksum>https://raw.githubusercontent.com/andreasneo/repository.newcry/master/_zips/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.githubusercontent.com/andreasneo/repository.newcry/master/_zips/</datadir>
+                <info compressed="false">https://raw.githubusercontent.com/andreasneo/repository.newcry/main/_zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/andreasneo/repository.newcry/main/_zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/andreasneo/repository.newcry/main/_zips/</datadir>
                 <hashes>false</hashes>
             </dir>
 			<dir>
