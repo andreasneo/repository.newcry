@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.newcry" name="Newcry Addon Repository" version="1.8" provider-name="Newcry">
+    <addon id="repository.newcry" name="Newcry Addon Repository" version="1.0" provider-name="Newcry">
         <extension point="xbmc.addon.repository" name="Newcry Addon Repository">
             <dir>
                 <info compressed="false">https://raw.githubusercontent.com/andreasneo/repository.newcry/main/_zips/addons.xml</info>

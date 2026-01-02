@@ -8,7 +8,7 @@
 * Go to "Addons"
 * In Addons, install an addon from zip.  When it asks for the location, select "Newcry", and install
 
-<table><a href="https://raw.githubusercontent.com/andreasneo/repository.newcry/main/_zips/repository.newcry/repository.newcry-1.0.zip">repository.newcry.zip</a></table>
+<table><a href="repository.newcry.zip">repository.newcry.zip</a></table>
 
 * Go back to Addons install, but this time, select "Install from repository"
 * Select the "Newcry Repository"
