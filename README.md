@@ -4,7 +4,7 @@
 
 * Go to the Kodi file manager
 * Click on "Add source"
-* The path for the source is `https://andreasneo.github.io/repostiory.newcry/`
+* The path for the source is `https://andreasneo.github.io/repository.newcry/`
 * Go to "Addons"
 * In Addons, install an addon from zip.  When it asks for the location, select "Newcry", and install [repository.newcry](https://raw.githubusercontent.com/andreasneo/repo.newcry/main/_zips/repository.newcry/repository.newcry-1.0.zip "repository.newcry")
 * Go back to Addons install, but this time, select "Install from repository"
